@@ -1,0 +1,4 @@
+git pull
+git add -A
+git commit -m "mensagem escritiva"
+git push
