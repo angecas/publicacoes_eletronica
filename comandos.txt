@@ -2,3 +2,8 @@ git pull
 git add -A
 git commit -m "mensagem escritiva"
 git push
+
+
+git stash
+git pull
+git stash pop
